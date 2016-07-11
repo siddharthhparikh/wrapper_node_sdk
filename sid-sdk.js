@@ -1,0 +1,2 @@
+
+var hlc = require('hfc');
